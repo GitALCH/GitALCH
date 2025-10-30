@@ -1,16 +1,25 @@
-## Hi there 👋
+<h3>About Me</h3>
+
+<p>Studying At Mohawk College</p>
 
 <!--
-**GitALCH/GitALCH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Add More information in future
 -->
+
+<h3>Current Projects</h3>
+
+<p>None</p>
+
+<h3>Future Projects</h3>
+
+<p>None</p>
+
+<h3>Experience In Languanges</h3>
+
+<ul>
+  <li>Java (1 Year)</li>
+  <li>HTML / CSS (2 Years)</li>
+  <li>Javascript (1 Year)</li>
+  <li>C# (Just Started)</li>
+  <li>PHP (Just Started)</li>
+</ul>

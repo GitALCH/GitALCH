@@ -14,7 +14,7 @@ Add More information in future
 
 <p>None</p>
 
-<h3>Experience In Languanges</h3>
+<h3>Experience In Languages</h3>
 
 <ul>
   <li>Java (1 Year)</li>
